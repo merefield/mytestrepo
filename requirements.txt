@@ -44,6 +44,6 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-matplotlib.pyplot
+matplotlib
 mpld3
 numpy
