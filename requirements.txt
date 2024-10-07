@@ -10,3 +10,4 @@ matplotlib
 mpld3
 numpy
 ipympl
+openai
